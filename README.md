@@ -71,21 +71,3 @@ A ResumeIQ app built with Streamlit, Google Gemini Pro Vision API, and various P
 3. **Upload a resume PDF** and **paste the job description** in the provided text area.
 
 4. **Click on the buttons** to get a detailed assessment or percentage match.
-
-## Contributing
-
-1. **Fork the repository**.
-2. **Create a new branch**: 
-    ```sh
-    git checkout -b my-feature-branch
-    ```
-3. **Make your changes and commit them**:
-    ```sh
-    git commit -m "Add some feature"
-    ```
-4. **Push to the branch**:
-    ```sh
-    git push origin my-feature-branch
-    ```
-5. **Create a Pull Request**.
-
