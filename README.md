@@ -2,7 +2,7 @@
 
 A ResumeIQ app built with Streamlit, Google Gemini Pro Vision API, and various Python libraries to analyze resumes against job descriptions.
 
-#Features
+# Features
 Upload PDF Resumes: Upload a resume in PDF format.
 Job Description Analysis: Paste a job description for the role you are hiring for.
 Resume Assessment: Get a comprehensive assessment of the resume against the job description.
