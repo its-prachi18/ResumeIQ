@@ -1,6 +1,6 @@
 # ResumeIQ - A smart, AI-driven resume screening and tracking system
 
-An ResumeIQ app built with Streamlit, Google Gemini Pro Vision API, and various Python libraries to analyze resumes against job descriptions.
+A ResumeIQ app built with Streamlit, Google Gemini Pro Vision API, and various Python libraries to analyze resumes against job descriptions.
 
 #Features
 Upload PDF Resumes: Upload a resume in PDF format.
