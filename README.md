@@ -8,3 +8,4 @@ Job Description Analysis: Paste a job description for the role you are hiring fo
 Resume Assessment: Get a comprehensive assessment of the resume against the job description.
 Percentage Match: Determine the percentage match between the resume and the job description.
 Highlight Missing Keywords: Identify keywords or skills missing from the resume.
+
